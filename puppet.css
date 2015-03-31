@@ -1,0 +1,44 @@
+html{
+    height: 100%;
+    width: 100%;
+}
+body{
+    height: 100%;
+    width: 100%;
+    background-color: #FFFFF9;
+    background-image: url(http://trueclean4u.com/wp-content/uploads/2014/12/JOES-Website-Background-light-grey.jpg);
+}
+h1{
+    font-family: 'Dancing Script';
+}
+div{
+    text-align: center;
+}
+header{
+    height: 12%;
+    text-align: center;
+    font-family: 'Tangerine';
+}
+.class-box{
+    height: 79%;
+    width: 24%;
+    border: 1px solid black;
+    position: absolute;
+}
+.play-title{
+    position: relative;
+    text-align: center;
+    font-family: Georgia;
+}
+#class-a{
+    
+}
+#class-b{
+    margin-left: 25%;
+}
+#class-c{
+    margin-left: 50%;
+}
+#class-d{
+    margin-left: 75%;
+}
